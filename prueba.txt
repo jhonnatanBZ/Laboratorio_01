@@ -1,1 +1,7 @@
 Este archivo es una prueba!!!
+
+Public String saludo(Persona p){
+
+	return "Buenas tardes"+ " " + p
+
+}
